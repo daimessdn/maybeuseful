@@ -8,7 +8,7 @@ single HTML document with few CSS and JavaScript syntaxes
 HTML file  without Node.js or npm and any dependencies...
 
 some of them in this repository:
-- [pdf-format](https://daimessdn.github.io/maybeuseful/pdf-format.html) (saved on `pdf-format.html` in this repository
+- [text-format](https://daimessdn.github.io/maybeuseful/text-format.html) (saved on `pdf-format.html` in this repository
 - others (coming soon)
 
 [peek me on GitHub](https://github.com/daimessdn)  
